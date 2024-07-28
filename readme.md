@@ -54,17 +54,17 @@ Folder Structure
 Text Extraction from Image Application/
 │
 ├── app/
-│   ├── __init__.py
-│   ├── views.py
-│   ├── static/
-│   │   ├── css/
-│   │   ├── images/
-│   │   └── js/
-│   └── templates/
-│       └── index.html
+│ ├── init.py
+│ ├── views.py
+│ ├── static/
+│ │ ├── css/
+│ │ ├── images/
+│ │ └── js/
+│ └── templates/
+│ └── index.html
 │
 ├── sample_data/
-│   └── example.jpg
+│ └── example.jpg
 │
 ├── .gitignore
 ├── README.md
